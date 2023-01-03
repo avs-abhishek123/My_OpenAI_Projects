@@ -1,0 +1,19 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "text": "\n\nAre you looking for a way to help your child excel in school? Look no further than Learning Room! Our virtual environment software is designed to help students from kindergarten to high school improve their academic performance. With interactive lessons, activities, and challenges, Learning Room will make learning fun and engaging for your child. Try it today and give your child the academic edge they need!"
+        }
+    ],
+    "created": 1672763667,
+    "id": "cmpl-6UeX5sPB0jtxSOcx2eOYaaVqSwt5B",
+    "model": "text-davinci-003",
+    "object": "text_completion",
+    "usage": {
+        "completion_tokens": 152,
+        "prompt_tokens": 40,
+        "total_tokens": 192
+    }
+}
