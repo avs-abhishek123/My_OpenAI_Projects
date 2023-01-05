@@ -15,5 +15,3 @@
 - OpenAI Gym: A toolkit for developing and comparing reinforcement learning algorithms.
 
 These are just a few examples of the open source projects and libraries released by OpenAI. You can find a complete list of their open source projects on the OpenAI GitHub page: [openAI](https://github.com/openai)
-
-hghghghghghghg
