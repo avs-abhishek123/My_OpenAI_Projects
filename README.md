@@ -10,3 +10,5 @@
   - Extracting contact information from a customer message
   - Extracting names of people or companies or products from a document
   - Extracting things mentioned in customer reviews or feedback
+
+Work in progress
